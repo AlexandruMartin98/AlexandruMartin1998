@@ -1,0 +1,5 @@
+{
+    "expected_dialog": "cake.recipe",
+    "intent_type": "cake.recipe.intent",
+    "utterance": "How to make pancakes?"
+}
